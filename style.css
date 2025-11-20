@@ -20,14 +20,9 @@
 }
 
 .section {
-<<<<<<< HEAD
     text-align: justify;
     background-color: rgb(85, 85, 85);
     padding:  25px;
-=======
-    background-color: rgb(85, 85, 85);
-    padding: 20 px;
->>>>>>> fa0d38ed53d1e142a629155b82e8e5dc93319f36
     margin-bottom: 20px;
     border-radius: 8px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
@@ -45,7 +40,6 @@ th, td {
 }
 
 th {
-<<<<<<< HEAD
     background-color:rgb(182, 115, 39);
     color: white;
 }
@@ -56,14 +50,6 @@ th {
 
 a {
     color:rgb(248, 141, 0);
-=======
-    background-color: #ff933b;
-    color: white;
-}
-
-a {
-    color:aqua;
->>>>>>> fa0d38ed53d1e142a629155b82e8e5dc93319f36
     text-decoration: none;
 }
 
